@@ -1,24 +1,9 @@
 README
 ======
 
-[![Build Status](https://travis-ci.org/myabc/markdownj.png?branch=master)](https://travis-ci.org/myabc/markdownj)
-
 MarkdownJ is the pure Java port of Markdown (a text-to-html conversion tool written by John Gruber.)
 
-Maven dependency as 
-
-```
-<dependency>
-  <groupId>org.markdownj</groupId>
-  <artifactId>markdownj-core</artifactId>
-  <version>0.4</version>
-</dependency>
-```
-
-### Related Projects
-
-* [markdownj-ant-utils][markdownj-ant-utils] – Markdown-based `FilterReader` for Ant.
-* [markdownj-dingus][markdownj-dingus] – [Web Dingus using MarkdownJ][dingus] source.
+Adding support for use of components from Twitter bootstrap library
 
 ### License
 
